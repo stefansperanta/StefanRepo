@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanStore.Domain", "StefanStore.Domain\StefanStore.Domain.csproj", "{505C7104-DB14-4A7F-816A-1FD8276B7CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanStore.Service", "StefanStore.Service\StefanStore.Service.csproj", "{B20D007A-DF24-4DCC-B629-452631D4972F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanStore.UnitTests", "StefanStore.UnitTests\StefanStore.UnitTests.csproj", "{F8FBBF17-71F7-4C49-8845-1C54FACCEC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanStore.WebUI", "StefanStore.WebUI\StefanStore.WebUI.csproj", "{823C19ED-A393-4144-B16E-ED47E465F1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanStore.Infrastructure", "StefanStore.Infrastructure\StefanStore.Infrastructure.csproj", "{6482B549-0799-4752-B30A-21DE659F5912}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.188.37.20:8080/tfs/internaltrainning
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = StefanStore.Domain\\StefanStore.Domain.csproj
+		SccProjectName1 = StefanStore.Domain
+		SccLocalPath1 = StefanStore.Domain
+		SccProjectUniqueName2 = StefanStore.Service\\StefanStore.Service.csproj
+		SccProjectName2 = StefanStore.Service
+		SccLocalPath2 = StefanStore.Service
+		SccProjectUniqueName3 = StefanStore.UnitTests\\StefanStore.UnitTests.csproj
+		SccProjectName3 = StefanStore.UnitTests
+		SccLocalPath3 = StefanStore.UnitTests
+		SccProjectUniqueName4 = StefanStore.WebUI\\StefanStore.WebUI.csproj
+		SccProjectName4 = StefanStore.WebUI
+		SccLocalPath4 = StefanStore.WebUI
+		SccProjectUniqueName5 = StefanStore.Infrastructure\\StefanStore.Infrastructure.csproj
+		SccProjectName5 = StefanStore.Infrastructure
+		SccLocalPath5 = StefanStore.Infrastructure
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505C7104-DB14-4A7F-816A-1FD8276B7CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505C7104-DB14-4A7F-816A-1FD8276B7CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505C7104-DB14-4A7F-816A-1FD8276B7CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505C7104-DB14-4A7F-816A-1FD8276B7CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20D007A-DF24-4DCC-B629-452631D4972F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20D007A-DF24-4DCC-B629-452631D4972F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20D007A-DF24-4DCC-B629-452631D4972F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20D007A-DF24-4DCC-B629-452631D4972F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FBBF17-71F7-4C49-8845-1C54FACCEC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FBBF17-71F7-4C49-8845-1C54FACCEC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FBBF17-71F7-4C49-8845-1C54FACCEC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FBBF17-71F7-4C49-8845-1C54FACCEC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823C19ED-A393-4144-B16E-ED47E465F1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823C19ED-A393-4144-B16E-ED47E465F1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823C19ED-A393-4144-B16E-ED47E465F1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823C19ED-A393-4144-B16E-ED47E465F1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6482B549-0799-4752-B30A-21DE659F5912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6482B549-0799-4752-B30A-21DE659F5912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6482B549-0799-4752-B30A-21DE659F5912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6482B549-0799-4752-B30A-21DE659F5912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
