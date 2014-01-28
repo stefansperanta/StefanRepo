@@ -1,0 +1,15 @@
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\StefanStore.Domain.dll
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\StefanStore.Domain.pdb
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\obj\Debug\StefanStore.Domain.dll
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\obj\Debug\StefanStore.Domain.pdb
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\StefanStore.Domain.dll.config
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\obj\Debug\StefanStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\StefanStore.Infrastructure.dll
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\Ninject.dll
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\StefanStore.Infrastructure.pdb
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\Ninject.pdb
+C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Domain\bin\Debug\Ninject.xml
