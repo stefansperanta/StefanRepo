@@ -1,8 +1,0 @@
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\bin\Debug\StefanStore.Infrastructure.dll
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\bin\Debug\StefanStore.Infrastructure.pdb
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\obj\Debug\StefanStore.Infrastructure.csprojResolveAssemblyReference.cache
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\obj\Debug\StefanStore.Infrastructure.dll
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\obj\Debug\StefanStore.Infrastructure.pdb
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\bin\Debug\Ninject.dll
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\bin\Debug\Ninject.pdb
-C:\Users\ssperanta\Documents\Visual Studio 2012\Projects\StefanStore\StefanStore.Infrastructure\bin\Debug\Ninject.xml
